@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 data={
     "Ho_va_ten": ["A","K","I","H","G","F","E","D","B","C"],
     "Chuyen_can":[10, 9, 8, 7, 8, 9, 10, 10, 7, 9],
-    "Giua_ki": [8, 8, 8, 8, 8, 8, 8, 9, 9, 10],
-    "Cuoi_ki": [10, 9, 8, 8, 9, 9, 7, 10, 8, 9]
+    "Giua_ky": [8, 8, 8, 8, 8, 8, 8, 9, 9, 10],
+    "Cuoi_ky": [10, 9, 8, 8, 9, 9, 7, 10, 8, 9]
 }
 df= pd.DataFrame(data)
 print("BANG DIEM BAN DAU:")
